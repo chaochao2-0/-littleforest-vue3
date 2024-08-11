@@ -1,5 +1,5 @@
 {
-  "name": "my-lib",
+  "name": "littleforest-vue3",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite --host",
@@ -16,7 +16,7 @@
     "gen-entry": "esno ./scripts/gen-entry.ts",
     "test": "jest --coverage",
     "cz": "git commit",
-    "release": "esno ./scripts/release.ts",
+    "release": "esno ./scripts/release.ts"
   },
   "engines": {
     "node": ">=14.16.1"

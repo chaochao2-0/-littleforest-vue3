@@ -116,7 +116,7 @@
     "vite": "^2.9.14",
     "vite-plugin-pages": "^0.12.1",
     "vite-plugin-svg-sprite": "^0.2.3",
-    "vitepress": "^1.0.0-alpha.4",
+    "vitepress": "1.0.0-alpha.4",
     "vue": "^3.2.33",
     "vue-eslint-parser": "^9.0.2",
     "vue-router": "^4.0.6",
